@@ -15,6 +15,7 @@ for i in range(3):
 while (i < len(a1)):
     print(a1[i])
     i += 1  # array with whilw loop
+    
 #  Array applying mehtods such as append,count,insert,remove,index,etc
 a1.append(27)
 print(a1)
