@@ -1,6 +1,6 @@
-from array import array  # for Array
+from array import array
 
-import numpy as np  # for Lists
+import numpy as np
 
 # Array
 
